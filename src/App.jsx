@@ -28,6 +28,6 @@ function App() {
   )
 }
 
-/*https://github.com/Muhammad-Feroz/React-Ecommerce-App/tree/master/public/assets/images */
+
 
 export default App
